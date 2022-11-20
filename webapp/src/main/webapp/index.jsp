@@ -1,6 +1,12 @@
 
 
-<h1> CONTAINER TESTING!</h1>
+<h1> DEPLOYMENT AUTOMATION BY JENKINGS CONFIGURATION 
+     -> IT WILL pieck up the code !
+        CREATE A NEW BUILD
+        CREATE A WAR FILE
+        CREATE A DOCKER IMAGE
+        CREATE A DOCKER container
+        AND THIS CHANGE WILL BE SEEN ON TOMCAT WEBSERVER GUI</h1>
 
 
 <!-- <form action="action_page.php" style="border:1px solid #ccc">
